@@ -8,9 +8,6 @@ This portfolio showcases my academic and independent analytics projects focused 
 ### Retail Demand Forecasting (Dissertation)
 Comparative analysis of machine learning and traditional time series forecasting models using Walmart retail dataset. Evaluated ARIMA, ETS, Prophet, Random Forest and XGBoost using RMSE, MAE and MAPE.
 
-### Airbnb Competitor Analysis
-Market analysis using Inside Airbnb dataset to identify pricing, positioning and customer segmentation opportunities for business travellers in Bordeaux.
-
 ### Social Media User Clustering
 Unsupervised machine learning (K-means & hierarchical clustering) to segment users based on engagement and behaviour.
 
@@ -19,6 +16,9 @@ Predictive modelling using regression, random forest and Bayesian models to esti
 
 ### Fitness Tracker Dashboard (R Shiny)
 Interactive dashboard for analysing health and fitness tracking data with dynamic filtering and visualization.
+
+### Airbnb Competitor Analysis
+Market analysis using Inside Airbnb dataset to identify pricing, positioning and customer segmentation opportunities for business travellers in Bordeaux.
 
 ## Tools & Skills
 Python | R | SQL | Tableau | Power BI | Excel | Machine Learning | Forecasting | EDA | Data Visualization | VBA
