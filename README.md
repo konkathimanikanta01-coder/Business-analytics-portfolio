@@ -6,7 +6,7 @@ This portfolio showcases my academic and independent analytics projects focused 
 ## Featured Projects
 
 ### Retail Demand Forecasting (Dissertation)
-Comparative analysis of machine learning and traditional time series forecasting models using Walmart retail dataset. Evaluated ARIMA, ETS, Prophet, Random Forest and XGBoost using RMSE, MAE and MAPE to generate business-focused forecasting insights.
+Comparative analysis of machine learning and traditional time series forecasting models using Walmart retail dataset. Evaluated ARIMA, ETS, Snaive, Prophet, Random Forest and XGBoost using RMSE, MAE and MAPE to generate business-focused forecasting insights.
 
 GitHub Repository: 
 https://github.com/konkathimanikanta01-coder/retail-demand-forecasting
