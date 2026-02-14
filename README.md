@@ -44,6 +44,13 @@ Market and pricing analysis using Inside Airbnb dataset to identify positioning,
 GitHub Repository:
 https://github.com/konkathimanikanta01-coder/airbnb-Competitor-analysis-bordeaux
 
+### Drone Service Centre Simulation (Arena)
+Discrete-event simulation analysing bottlenecks, queue times and resource utilisation in a drone service facility with scenario-based operational improvements.
+
+GitHub Repository:
+https://github.com/konkathimanikanta01-coder/drone-service-centre-simulation
+
+
 
 ## Tools & Skills
 Python | R | SQL | Tableau | Power BI | Excel | Machine Learning | Forecasting | EDA | Data Visualization | VBA
